@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-16 11:56:28">
+<shop>
+<name>ФитнесМания</name>
+<company>ФитнесМания</company>
+<url>https://fitnessmania.ru/</url>
+<collections>
+<collection id="c1">
+<url>https://fitnessmania.ru/</url>
+<name>Фитнес клуб на Ленинском</name>
+<description>ФитнесМания — современный фитнес-клуб на Ленинском: зал, бассейн, бокс, йога</description>
+<picture>https://direct.yandex.ru/images/direct/4478037/jRUnxRxI0EThoS8Q__fVAQ</picture>
+</collection>
+<collection id="c2">
+<url>https://fitnessmania.ru/</url>
+<name>Фитнес на Ленинском проспекте</name>
+<description>ФитнесМания — современный фитнес-клуб на Ленинском: зал, бассейн, бокс, йога</description>
+<picture>https://direct.yandex.ru/images/direct/5313224/VF-zm90RPvp_R6zyH3oBkg</picture>
+</collection>
+<collection id="c3">
+<url>https://fitnessmania.ru/</url>
+<name>Фитнес мания на Ленинском</name>
+<description>ФитнесМания — современный фитнес-клуб на Ленинском: зал, бассейн, бокс, йога</description>
+<picture>https://direct.yandex.ru/images/direct/4824955/dOLhPPXIv-5sobA6VkmZ7g</picture>
+</collection>
+<collection id="c4">
+<url>https://fitnessmania.ru/</url>
+<name>Фитнес клуб на Ленинском проспекте</name>
+<description>ФитнесМания — современный фитнес-клуб на Ленинском: зал, бассейн, бокс, йога</description>
+<picture>https://direct.yandex.ru/images/direct/6495081/pq5rnBisHOIFBlR-ve374Q</picture>
+</collection>
+<collection id="c5">
+<url>https://fitnessmania.ru/</url>
+<name>Фитнес на Ленинском</name>
+<description>ФитнесМания — современный фитнес-клуб на Ленинском: зал, бассейн, бокс, йога</description>
+<picture>https://direct.yandex.ru/images/direct/4737119/RdLjDri_axQdq0eXfH5XxA</picture>
+</collection>
+</collections>
+</shop>
+</yml_catalog>
