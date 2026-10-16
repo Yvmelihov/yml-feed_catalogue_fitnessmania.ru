@@ -1,0 +1,2 @@
+Репозиторий
+yml-feed_catalogue_fitnessmania.ru
